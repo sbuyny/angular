@@ -1,2 +1,2 @@
 # angular
-Code examples
+Code examples on Angular JS
