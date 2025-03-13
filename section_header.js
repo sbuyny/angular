@@ -28,7 +28,7 @@ angular.module('starter').run(function($rootScope, $injector) {
             var headerData = this._getHeaderData(data);
             if (headerData) {
                 if (headerData.image) {
-                    tElement.css('backgroundImage', 'url("http://13.88.188.171' + headerData.image + '")');
+                    tElement.css('backgroundImage', 'url("http://11.11.111.111' + headerData.image + '")');
                 } else {
                     tElement.css('backgroundImage', null);
                 }
